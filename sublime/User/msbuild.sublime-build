@@ -1,0 +1,6 @@
+{
+	"shell_cmd": "msbuild",
+	"path": "C:/Program Files (x86)/MSBuild/12.0/Bin",
+	"working_dir": "${project_path:${folder}}",
+	"file_regex": "^ (.*)\\(([0-9]*),([0-9]*)"
+}

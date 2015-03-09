@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C# Snippets",
+		"Dayle Rees Color Schemes",
+		"Git",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint",
+		"NuGet",
+		"OmniSharp",
+		"Package Control",
+		"Shell Turtlestein",
+		"SublimeCodeIntel",
+		"SublimeOnSaveBuild",
+		"SyncedSideBar"
+	]
+}
