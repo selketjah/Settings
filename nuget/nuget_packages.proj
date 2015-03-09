@@ -1,4 +1,18 @@
 <?xml version="1.0"?>
-<Project DefaultTargets="Run">
+<Project DefaultTargets="Run" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<RoothPath>$(MSBuildProjectDirectory)\..</RoothPath>
+		<NuGetExe Condition="$(NuGetExe) == ''">$(RootPath)\.nuget\nuget.exe</NuGetExe>
+	</PropertyGroup>
 
+	<Target Name="Run">
+		<CallTarget Targets="RestorePackages" />
+	</Target>
+
+	<Target Name="RestorePackages">
+		<ItemGroup>
+			<BuildPackageConfigs Include="$(RootPath)\build\packages.config" />
+		</ItemGroup>
+		<Exec Command="$(NuGetExe) install %(BuildPackageConfigs.Identity) -o '$(RootPath)\build\packages' -Verbosity detailed" />
+	</Target>
 </Project>

@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"areAllValid"
+			],
+			[
+				"Con",
+				"ContinueOnError"
+			],
+			[
+				"Patient",
+				"PatientAdministration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Build",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"Buil",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/workspace/phoenix/Source/UI/build/restore_packages.proj",
+		"/E/workspace/ultragendapro/UltraGendaPro.UI/build/restore_packages.proj",
+		"/E/Settings/nuget/nuget_packages.proj",
+		"/E/Settings/nuget/nuget_packages.csproj",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.Domain/testclass2.cs",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.Domain/Class1.cs",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.Domain/TestingSublime.Domain.csproj",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.Domain/downthepipe/downthepipe.cs",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.Domain/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.sublime-project",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.Domain/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+		"/E/workspace/labdays/TestingSublime/TestingSublime.Domain/obj/Debug/TestingSublime.Domain.csproj.FileListAbsolute.txt",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/E/workspace/labdays/TestCsharpProject/test.cs",
+		"/E/workspace/ultragendapro/UltraGendaPro.UI/src/UltraGendaPro.UI.WebApi.Tests/UnavailabilitiesModuleTests/Setup.cs",
+		"/E/workspace/broka/broka.administration/Source/Broka.Administration.Web/NancyPassThroughBranchSelector.cs",
+		"/E/workspace/labdays/testfolder/main.js",
+		"/E/workspace/broka/broka.administration/Source/Broka.Administration.Web/App/main.js",
+		"/E/workspace/broka/broka.administration/Source/Broka.Administration.Web/App/Shared/CommonSelectManyInputSortingMethods.js",
+		"/E/workspace/broka/broka.administration/Source/Broka.Administration.Web/App/Shared/AjaxCompleteActions.js",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/User/msbuild.sublime-build",
+		"/E/workspace/broka/broka.administration/build/Build.cmd",
+		"/E/workspace/broka/broka.administration/build/UltraGendaBrokaAdministration.proj",
+		"/E/workspace/broka/broka.administration/Source/Broka.Administration.Web/TraceSources.cs",
+		"/E/workspace/broka/broka.administration/Source/Broka.Administration.Web/Api/ApplicationSettingExtensions.cs",
+		"/E/workspace/broka/broka.administration/Source/Broka.Administration.Web/Startup.cs",
+		"/E/workspace/labdays/index.html",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/User/xbuild.sublime-build",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/User/Shell Turtlestein.sublime-settings",
+		"/e/workspace/labdays/index.html",
+		"/C/Users/gverschatse.ULTRAGENDA/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Git/testfolder",
+		"/e/workspace/labdays/testfolder",
+		"/E/workspace/ultragendapro/UltraGendaPro.UI/src/UltraGendaPro.UI.WebApi.Tests/FakeItEasyExtensions.cs",
+		"/E/workspace/ScheduleDayPartDataService.cs",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/setup/iu/holiday/holiday_rsc_upd.asp",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/setup/iu/holiday/holiday_rsc_confirm.asp",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/setup/aa/holiday/holiday_rsc_change.css",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/setup/aa/holiday/holiday_rsc_change.asp",
+		"/E/workspace/ultragendapro/HL7/Source/UltraGendaPro.HL7.Domain/ConcreteDomainObjects/HOLIDAY_RSC.cs",
+		"/E/workspace/ultragendapro/HL7/Source/UltraGendaPro.HL7.DataSource.Sql/ConcreteMappers/HOLIDAY_RSCMapper.cs",
+		"/E/workspace/ultragendapro/HL7/Source/UltraGendaPro.HL7.DataSource.Sql/ConcreteMappers/HOLIDAY_PUBMapper.cs",
+		"/E/workspace/ultragendapro/ChooseAndBook/Source/ChooseAndBook.Addon/HolidayPublic.cs",
+		"/E/workspace/ultragendapro/UltraGendaPro/node_modules/bower/node_modules/mout/object/hasOwn.js",
+		"/E/workspace/ultragendapro/HL7/HOWTOBUILD.txt",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/rscview.asp",
+		"//vm64-690/c$/Program Files (x86)/UltraGenda/UltraGendaPro/UltraGendaPro/UltraGendaPro_iis/dayview/rscview/rscview.asp",
+		"//vm64-690/c$/Program Files (x86)/UltraGenda/UltraGendaPro/UltraGendaPro/UltraGendaPro_iis/blank.asp",
+		"//vm64-690/c$/Program Files (x86)/UltraGenda/UltraGendaPro/UltraGendaPro/UltraGendaPro_iis/login/login_start.asp",
+		"/E/workspace/ultragendapro/UltraGendaPro/node_modules/bower/node_modules/cardinal/node_modules/redeyed/test/redeyed-string-config.js",
+		"/E/workspace/ultragendapro/ContactsStoreLoad/Source/AppointmentExport.Core/RunState.cs",
+		"/E/workspace/ultragendapro/RestorePackages.cmd",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/setup/iu/template/template_upd.asp",
+		"/E/workspace/ultragendapro/HL7/Source/UltraGendaPro.HL7.DataSource.Sql/ConcreteMappers/TEMPLATE_DAYMapper.cs",
+		"/E/workspace/ultragendapro/UltraGendaPro.Scheduling/src/UltraGendaPro.Scheduling.DomainServices/TemplateService.cs",
+		"/E/workspace/ultragendapro/HL7/Source/UltraGendaPro.HL7.Tests/TestMFNM02.cs",
+		"/E/workspace/ultragendapro/HL7/Source/UltraGendaPro.HL7.Tests/Diagnostics/TraceEntry.cs",
+		"/E/workspace/ultragendapro/CalendarSynchronization/Test.cmd",
+		"/E/workspace/ultragendapro/HL7/Source/UltraGendaPro.HL7.Domain/TimeMath.cs",
+		"/E/workspace/ultragendapro/ScheduleServices/Source/ScheduleServices.Domain/Exceptions/TooManyPatientsFoundException.cs",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/search_multi/search_multi_tmplName.asp",
+		"/E/workspace/ultragendapro/.gitignore",
+		"/E/workspace/ultragendapro/UltraGendaPro/RestorePackages.cmd",
+		"/E/workspace/ultragendapro/UltraGendaPro/BuildComponents.cmd",
+		"/E/workspace/ultragendapro/UltraGendaPro/build_js.proj",
+		"/E/workspace/ultragendapro/UltraGendaPro/gulpfile.js",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/individualView/build.js",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/individualView/main.js",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/individualView/components/SessionHeaderView.jsx",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/individualView/components/InfoView.jsx",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/page.html",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/Components/UGRscView/Source/View.cls",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/individualView_compiled/main-built.js",
+		"/E/workspace/ultragendapro/Frodo/Source/Frodo/ViewModels/ViewModelBase.cs",
+		"/E/workspace/ultragendapro/validateInstaller.cmd",
+		"/E/workspace/ultragendapro/version.txt",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/dayview/rscview/sessionHeader.html",
+		"/E/workspace/ultragendapro/ContactsStoreLoad/Source/AppointmentExport.Core/SessionHistory.cs",
+		"/E/workspace/ultragendapro/ContactsStoreLoad/Source/AppointmentExport.Core/Session.cs",
+		"/E/workspace/ultragendapro/AccessTimesExport/Source/AccessTimesExport/Data/SearchEngineSettings.cs",
+		"/E/workspace/ultragendapro/ChooseAndBook/Source/SoapWithAttachmentsExtension_1.0.0/SwaExtension.csproj",
+		"/E/workspace/ultragendapro/StartAllUGServices.bat",
+		"/E/workspace/ultragendapro/UltraGendaPro.Scheduling/build/target/UltraGendaProScheduling/autodeploy.proj",
+		"/E/workspace/ultragendapro/UltraGendaPro.Scheduling/build/autodeploy.proj",
+		"/E/workspace/ultragendapro/UltraGendaPro/BuildJS.cmd",
+		"/E/workspace/ultragendapro/AccessTimesExport/Build.cmd",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/book/book_upd.asp",
+		"/E/workspace/ultragendapro/UltraGendaPro.Scheduling/src/UltraGendaPro.Scheduling.Commands/UltraGendaPro.Scheduling.Commands.csproj",
+		"/E/workspace/ultragendapro/UltraGendaPro.Scheduling/src/UltraGendaPro.Scheduling.WebApi.sln",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/Database/DatabaseObjects/Stored Procedures/dbo.sp_schedule_slot_durationParserOnAp.prc",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/Database/DatabaseObjects/Stored Procedures/dbo.sp_schedule_slot_durationParserOnPrg.prc",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/Database/DatabaseObjects/Stored Procedures/dbo.sp_schedule_slot_deleteOnSchdpId.prc",
+		"/E/workspace/ultragendapro/UltraGendaCommon/Source/EnvironmentDatabase/DatabaseObjects/Stored Procedures/dbo.sp_sharedstate_delete.sql",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/Database/TableUpdate/Version 6.3.0/581 - sp_accesspttrn_get indexes.sql",
+		"/E/workspace/ultragendapro/Tools_ExternalUse/Sample - Fat client - Visual integration querystring/SampleProject.vbp",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/Database/DatabaseObjects/Stored Procedures/dbo.sp_schedule_book.prc",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/Database/DatabaseObjects/Stored Procedures/dbo.sp_schedule_createExtraSlots.prc",
+		"/C/Users/gverschatse.ULTRAGENDA/Desktop/install the pro.txt",
+		"/E/workspace/broka/broka.administration/.git/hooks/prepare-commit-msg.sample",
+		"/E/workspace/broka/broka.administration/.git/hooks/prepare-commit-msg",
+		"/E/workspace/ultragendapro/.git/hooks/prepare-commit-msg",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/general/server_functions.inc",
+		"/E/workspace/ultragendapro/UltraGendaPro/Source/UltraGendaPro.Web/selectEnvironment.asp",
+		"/E/workspace/ultragendapro/UltraGendaCommon/UltraGendaCommon.proj",
+		"/E/workspace/ultragendapro/UltraGendaCommon/SynchronizeComponents.cmd",
+		"/E/workspace/ultragendapro/UltraGendaCommon/SynchronizeEnvironmentDatabase.cmd",
+		"/C/workspace/trackpro/TrackPro.proj",
+		"/C/TiCSData/Jira-exports/jira-export.txt",
+		"/C/workspace/phoenix/Source/Triage/build/autodeploy.proj",
+		"/C/Users/gverschatse.ULTRAGENDA/Desktop/gedicht.txt",
+		"/C/workspace/phoenix_selenium/UGPhoenix.UI.Selenium/UGPhoenix.UI.Selenium.csproj",
+		"/C/Users/gverschatse.ULTRAGENDA/Desktop/tree.txt",
+		"/C/workspace/phoenix/Deployment/Target/AccessControl/Deployment.RebuildProjections.log",
+		"/C/workspace/broka/broka.administration/build/build/output/Translations/Translations.nl.json",
+		"/C/workspace/broka/broka.administration/build/build/output/Translations/Translations.iv.json",
+		"/C/workspace/broka/broka.administration/build/build/output/Translations/Translations.fr.json",
+		"/C/workspace/broka/broka.administration/build/build/merge_translations.proj",
+		"/C/Users/gverschatse.ULTRAGENDA/Desktop/Translations.nl.json",
+		"/C/workspace/broka/broka.administration/build/SplitTranslationsFromTranslators.cmd",
+		"//sde-phx-test/c$/Program Files/UltraGenda/UGBroka/BrokaAdministrationWeb/Web.config",
+		"/C/Users/gverschatse.ULTRAGENDA/Downloads/Web.config",
+		"/C/workspace/broka/broka.administration/build/deploy/deploy.proj",
+		"/C/workspace/broka/broka.administration/build/deploy/deploy_web.proj",
+		"/C/workspace/broka/broka.administration/build/build/build_web.proj",
+		"/C/workspace/broka/broka.administration/build/build/output/web/_PublishedWebsites/Broka.Administration.Web/Web.config"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 295.0,
+		"where_history":
+		[
+			"C:\\workspace\\phoenix\\Source",
+			"C:\\workspace\\broka\\triage-broka\\build",
+			"C:\\workspace\\broka\\triage-broka\\src\\UGTriage.Web\\Scripts\\runtime\\viewmodels",
+			"C:\\workspace\\broka\\triage-broka\\src\\UGTriage.Web\\Scripts\\runtime",
+			"C:\\workspace\\broka\\triage-broka\\src\\UGTriage.Web\\Scripts\\designtime",
+			"C:\\workspace\\phoenix\\Source",
+			"C:\\workspace\\phoenix\\Source, *.csproj",
+			"",
+			"C:\\workspace\\phoenix\\Source, *.csproj"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eolMarker",
+			"sessionheader",
+			"main",
+			"\\",
+			"ConfigureAccess",
+			"UltraGenda",
+			"Configure",
+			"ScheduleDayContracts",
+			"*.ini",
+			"ScheduleDayContracts.ini",
+			"SynchronizeComponents",
+			"Synchronize",
+			"UgTriageAppPool",
+			"PhoenixTriageAppPool",
+			"UltraGendaPhoenixTriage",
+			"Workspace\\broka.administration",
+			"BrokaAdministrationWebApplicationName",
+			"UltraGendaBrokaAdmin",
+			"UltraGendaBroka",
+			"AddVirtualDirectory",
+			"body",
+			"MSBuild.Extension.Pack",
+			"');\n",
+			"SingleChoiceQuestionNodeViewModel",
+			"MultipleChoiceQuestionNodeViewModel",
+			"MessageNodeViewModel",
+			"AuthorizationNodeViewModel",
+			"AuthorisationNodeRunTimeViewModel",
+			"AuthorizationNodeRunTimeViewModel",
+			"designtime",
+			"start.frag",
+			"isLaterThan",
+			"DefiningProjectFullPath",
+			"4.5",
+			"0.0.174.0",
+			"Translations",
+			">\n",
+			"<<<<<<",
+			"\"UM\"",
+			"\"PF\"",
+			"\"GP\"",
+			"\"AU\"",
+			"\"TW\"",
+			"\"CX\"",
+			"\"RE\"",
+			"\"AN\"",
+			"\"TA\"",
+			"\"AU\"",
+			"\"SO\"",
+			"\"MD\"",
+			"\"CY\"",
+			"\"CY\": \"Northern Cyprus\",",
+			"\"AZ\"",
+			"AZ",
+			"UGPhoenix.ResxToJs",
+			"<Import Project=\"$(MSBuildExtensionsPath32)\\Microsoft\\VisualStudio\\v10.0\\WebApplications\\Microsoft.WebApplication.targets\" Condition=\"false\" />",
+			"<Import Project=\"$(MSBuildExtensionsPath32)\\Microsoft\\VisualStudio\\v10.0\\WebApplications\\Microsoft.WebApplication.targets\" Condition=\"true\" />",
+			"<Import Project=\"$(MSBuildExtensionsPath32)\\Microsoft\\VisualStudio\\v10.0\\WebApplications\\Microsoft.WebApplication.targets\" Condition=\"false\" />",
+			"\"",
+			",",
+			",\"",
+			"  <PropertyGroup>\n    <VisualStudioVersion Condition=\"'$(VisualStudioVersion)' == ''\">10.0</VisualStudioVersion>\n    <VSToolsPath Condition=\"'$(VSToolsPath)' == ''\">$(MSBuildExtensionsPath32)\\Microsoft\\VisualStudio\\v$(VisualStudioVersion)</VSToolsPath>\n  </PropertyGroup>",
+			"<Project ToolsVersion=\"4.0\"",
+			"visualstudioversion"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"workspace\\broka\\broka.administration",
+			"4.0",
+			"UGPhoenix.MetaData",
+			"<Import Project=\"$(MSBuildExtensionsPath32)\\Microsoft\\VisualStudio\\v12.0\\WebApplications\\Microsoft.WebApplication.targets\" Condition=\"true\" />",
+			"<Import Project=\"$(MSBuildExtensionsPath32)\\Microsoft\\VisualStudio\\v10.0\\WebApplications\\Microsoft.WebApplication.targets\" Condition=\"true\" />",
+			"\": \"",
+			"  <PropertyGroup>\n    <VisualStudioVersion Condition=\"'$(VisualStudioVersion)' == ''\">12.0</VisualStudioVersion>\n    <VSToolsPath Condition=\"'$(VSToolsPath)' == ''\">$(MSBuildExtensionsPath32)\\Microsoft\\VisualStudio\\v$(VisualStudioVersion)</VSToolsPath>\n  </PropertyGroup>",
+			"<Project ToolsVersion=\"12.0\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "nuget_packages.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"holiday_rsc_",
+				"UltraGendaPro\\Source\\UltraGendaPro.Web\\setup\\iu\\holiday\\holiday_rsc_upd.asp"
+			],
+			[
+				"rscvie",
+				"UltraGendaPro\\Source\\UltraGendaPro.Web\\dayview\\rscview\\rscview.asp"
+			],
+			[
+				"template_up",
+				"ultragendapro\\UltraGendaPro\\Source\\UltraGendaPro.Web\\setup\\iu\\template\\template_upd.asp"
+			],
+			[
+				"view",
+				"ultragendapro\\UltraGendaPro\\Source\\Components\\UGRscView\\Source\\View.cls"
+			],
+			[
+				"infoview",
+				"ultragendapro\\UltraGendaPro\\Source\\UltraGendaPro.Web\\dayview\\rscview\\individualView\\components\\InfoView.jsx"
+			],
+			[
+				"sessionhead",
+				"ultragendapro\\UltraGendaPro\\Source\\UltraGendaPro.Web\\dayview\\rscview\\individualView\\components\\SessionHeaderView.jsx"
+			],
+			[
+				"build.js",
+				"ultragendapro\\UltraGendaPro\\Source\\UltraGendaPro.Web\\dayview\\rscview\\individualView\\build.js"
+			],
+			[
+				"sp_schedule_slot_",
+				"ultragendapro\\UltraGendaPro\\Source\\Database\\DatabaseObjects\\Stored Procedures\\dbo.sp_schedule_slot_durationParserOnPrg.prc"
+			],
+			[
+				"sp_schedule_slot_dur",
+				"ultragendapro\\UltraGendaPro\\Source\\Database\\DatabaseObjects\\Stored Procedures\\dbo.sp_schedule_slot_durationParserOnAp.prc"
+			],
+			[
+				"tabstr",
+				"phoenix\\Deployment\\Deployed\\UI\\Web\\App\\Lib\\TabStripItem.js"
+			],
+			[
+				"nationalnumbersv",
+				"Deployment\\Deployed\\UI\\Web\\App\\Scheduling\\PatientSelector\\ViewModels\\NationalNumbersViewModel.js"
+			],
+			[
+				"nationalnumbersviewmodel",
+				"Deployment\\Deployed\\UI\\Web\\App\\Scheduling\\PatientSelector\\ViewModels\\NationalNumbersViewModel.js"
+			],
+			[
+				"patientidetailsquery",
+				"Deployment\\Deployed\\UI\\Web\\App\\Scheduling\\PatientSelector\\Services\\PatientDetailsQueryService.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
